@@ -8,4 +8,4 @@
 # Optional parameters:
 # @raycast.icon images/cursor.png
 
-open --new "/Applications/Cursor.app"
+cursor -n
